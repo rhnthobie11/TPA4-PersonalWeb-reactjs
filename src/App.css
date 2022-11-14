@@ -1,0 +1,90 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  /* text-align: center; */
+}
+/* 
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+.App nav a{
+  text-decoration: none;
+  color:rgb(0, 0, 0);
+  padding: 0 0.5rem;
+  font-weight: 500;
+}
+.App nav a:hover{
+  color: rgb(145, 145, 145);
+  /* background: rgb(44, 44, 44);
+  border-radius: 10px; */
+  transition: 0.3s;
+}
+
+.list-skill h6{
+  padding: 0 1rem;
+  margin: 2rem 0;
+  justify-items: center;
+}
+
+.header {
+  margin: 6rem 0;
+}
+
+.header h2{
+  padding: 9rem 9rem;
+}
+
+.Blog {
+  background-color: rgb(39, 37, 57);
+  /* background-color: rgb(73, 171, 178); */
+
+  padding: 1rem 4rem 4rem;
+  border-radius: 10px;
+}
+
+.footer a{
+  text-decoration: none;
+  font-size: x-large;
+  color: black;
+}
+
+.Bio img{
+  border-radius: 20%;
+  margin: 0rem 5rem;
+}
+
+.about {
+  background-color: rgb(73, 171, 178);
+}
