@@ -8,3 +8,4 @@ menggunakan:
 - React Hooks
 
 hasil akhir dapat dilihat pada :
+`https://raihan-personalweb.netlify.app/`
