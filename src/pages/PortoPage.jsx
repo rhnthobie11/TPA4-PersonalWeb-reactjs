@@ -39,7 +39,7 @@ export default function PortoPage() {
           <Card.Body>
             <Card.Title>BMI Calulator</Card.Title>
             <Card.Text>
-              APlikasi penghitung BMI sesuai standar Ideal.
+              Aplikasi penghitung BMI sesuai standar Ideal.
             </Card.Text>
           </Card.Body>
         </Card>
