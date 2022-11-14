@@ -7,5 +7,4 @@ menggunakan:
 - React Router 6
 - React Hooks
 
-hasil akhir dapat dilihat pada :
-`https://raihan-personalweb.netlify.app/`
+hasil akhir dapat dilihat [disini](https://raihan-personalweb.netlify.app/)
